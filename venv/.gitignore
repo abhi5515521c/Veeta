@@ -1,0 +1,186 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+############################
+# OS GENERATED FILES
+############################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+############################
+# ENV / SECRETS
+############################
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.crt
+secrets.*
+credentials.*
+config/local.*
+
+############################
+# LOGS
+############################
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+pip-log.txt
+
+############################
+# TEMP / CACHE
+############################
+tmp/
+temp/
+.cache/
+*.tmp
+*.swp
+*.swo
+*.bak
+*.old
+
+############################
+# NODE / JS
+############################
+node_modules/
+npm-debug.log*
+yarn.lock
+pnpm-lock.yaml
+.npm
+.pnpm-store
+.parcel-cache
+.next/
+.nuxt/
+dist/
+build/
+out/
+coverage/
+.eslintcache
+
+############################
+# PYTHON
+############################
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+venv/
+.venv/
+env/
+ENV/
+virtualenv/
+pip-wheel-metadata/
+.pytest_cache/
+.mypy_cache/
+.pyre/
+.coverage
+coverage.xml
+
+############################
+# DJANGO / FASTAPI
+############################
+db.sqlite3
+*.sqlite3
+media/
+staticfiles/
+instance/
+
+############################
+# JAVA
+############################
+*.class
+*.jar
+*.war
+*.ear
+target/
+.gradle/
+build/
+
+############################
+# GO
+############################
+bin/
+pkg/
+*.exe
+*.test
+*.out
+
+############################
+# C / C++
+############################
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+*.exe
+*.out
+
+############################
+# ANDROID
+############################
+*.apk
+*.aab
+*.dex
+*.iml
+.idea/
+.gradle/
+local.properties
+
+############################
+# IOS / MAC
+############################
+Pods/
+DerivedData/
+*.xcworkspace
+*.xcuserstate
+
+############################
+# EDITORS / IDEs
+############################
+.vscode/
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+############################
+# GIT
+############################
+.gitconfig
+.gitignore_global
+.gitmodules
+
+############################
+# DOCKER
+############################
+docker-compose.override.yml
+*.pid
+
+############################
+# TEST / REPORTS
+############################
+test-results/
+reports/
+junit.xml
+coverage/
+
+############################
+# MISC
+############################
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
